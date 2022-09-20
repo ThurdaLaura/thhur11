@@ -1,6 +1,6 @@
 # sobre mim  
  🥋 🤙🏼👺
-- Ola, me chamo arthur, tenho 15 anos.
+:sunglasses:- Ola, me chamo arthur, tenho 15 anos.
 @coritiba
 - gosto de jogar futebol e sair com meus amigos.
 - atualmente estou só estudando no DB.
