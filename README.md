@@ -8,6 +8,8 @@
 
 - pretendo me formar em engenharia.
 
+- interessado em progamação.
+
 - aprendendo html/Css no colégio.
 
 -  meu contato: arthur.luiz.oliveira@escola.pr.gov.br
