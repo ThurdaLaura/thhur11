@@ -1,5 +1,5 @@
 # sobre mim  
-## 🥋
+## 🥋:brazil:
 - 👺 Ola, me chamo arthur, tenho 15 anos. 
 
 - :soccer: gosto de jogar futebol e sair com meus amigos.
