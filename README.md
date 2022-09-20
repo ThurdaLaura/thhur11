@@ -1,7 +1,7 @@
 # sobre mim  
-👺- Ola, me chamo arthur, tenho 15 anos.
-@coritiba
- 🥋- gosto de jogar futebol e sair com meus amigos.
+-👺 Ola, me chamo arthur, tenho 15 anos.
+-@coritiba
+- 🥋 gosto de jogar futebol e sair com meus amigos.
 - atualmente estou só estudando no DB.
 - pretendo me formar, mas ainda não sei do que.
 - aprendendo html/Css no colégio
